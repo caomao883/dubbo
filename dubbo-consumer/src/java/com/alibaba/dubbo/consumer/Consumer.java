@@ -12,6 +12,8 @@ public class Consumer {
         System.out.println("consumer start");
         DemoService demoService = context.getBean(DemoService.class);
         System.out.println("consumer");
+        System.out.println("打印引用类型:"+demoService.getClass());
         System.out.println(demoService.mysum(3,4));
+
     }
 }

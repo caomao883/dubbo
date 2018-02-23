@@ -10,6 +10,15 @@
     <module>dubbo-provider</module>
     <module>dubbo-consumer</module>
     <module>dubbo-consumer2</module>
+      <module>dubboprovider1</module>
+    <module>dubboprovider集群容错2</module>
+    <module>dubboconsumer集群容错</module>
+    <module>dubbo集群容错1provider</module>
+    <module>dubbo(集群容错2)-provider</module>
+    <module>dubbo(集群容错1)-provider</module>
+    <module>dubbo(集群容错3)-provider</module>
+    <module>dubbo(集群容错)-consumer</module>
+    <module>dubbo(集群容错4)-provider</module>
   </modules>
   <name>DubboDemo Maven Webapp</name>
   <url>http://maven.apache.org</url>
